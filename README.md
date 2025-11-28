@@ -41,5 +41,5 @@ I believe in clean code, collaboration, and continuous learning.
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/paras-adkurkar-56925325b
-- Portfolio: parastech.vercel.app
+- Portfolio: https://parastech.vercel.app
 - Email: parasadkurkar37@gmail.com
