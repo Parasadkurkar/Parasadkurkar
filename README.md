@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Paras Adkurkar</h1>
 
 <p align="center">
-🚀 Full Stack Developer  | 🔐 Technology Enthusiast | 💡 Lifelong Learner
+🚀 Full Stack Developer  | 🔐 Technology Enthusiast | 💡 AI/ML Engineer
 </p>
 
 ---
